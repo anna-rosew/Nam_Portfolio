@@ -3,7 +3,8 @@ h2,
 h3,
 h4,
 h5,
-h6 .hero-menu,
+h6,
+.hero-menu,
 .project-title {
   color: black;
   font-family: "EB Garamond", serif;
