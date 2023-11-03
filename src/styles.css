@@ -52,11 +52,6 @@ a {
   text-decoration: none;
 }
 
-a:hover {
-  color: black;
-  text-decoration: underline;
-}
-
 .social-links {
   padding-top: 20px;
 }
@@ -89,4 +84,24 @@ a:hover {
 
 .projects-grid {
   margin-top: 10%;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  background-color: #303030;
+}
+
+.footer-text {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ecd8d5;
+}
+
+.social-footer {
+  margin-top: 1px;
+}
+
+.brand-footer {
+  color: #ecd8d5;
 }
