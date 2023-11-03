@@ -12,8 +12,12 @@ h2 {
   font-size: 20px;
 }
 
-.hero {
+body {
   background-color: #ecd8d5;
+}
+
+.hero-container {
+  padding: 10px;
 }
 
 .hero-menu {
@@ -22,6 +26,12 @@ h2 {
   font-size: 20px;
   font-weight: 400px;
   text-decoration: underline;
+}
+
+.hero-pic {
+  max-width: 100%;
+  height: auto;
+  border-radius: 50%;
 }
 
 a {
