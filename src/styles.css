@@ -3,23 +3,31 @@ h2,
 h3,
 h4,
 h5,
-h6 .hero-menu {
+h6 .hero-menu,
+.project-title {
   color: black;
   font-family: "EB Garamond", serif;
 }
 
 h1 {
-  color: black;
-  font-family: "EB Garamond", serif;
   font-weight: 600;
   font-size: 36;
 }
 
 h2 {
-  color: black;
-  font-family: "EB Garamond", serif;
   font-style: italic;
   font-size: 20px;
+}
+
+h3 {
+  text-align: center;
+  font-weight: medium;
+  font-size: 20px;
+}
+
+h4 {
+  text-align: center;
+  font-size: 13px;
 }
 
 body {
@@ -27,8 +35,6 @@ body {
 }
 
 .hero-menu {
-  color: black;
-  font-family: "EB Garamond", serif;
   font-size: 20px;
   font-weight: 400px;
   text-decoration: underline;
@@ -43,10 +49,12 @@ body {
 
 a {
   color: black;
+  text-decoration: none;
 }
 
 a:hover {
   color: black;
+  text-decoration: underline;
 }
 
 .social-links {
@@ -77,4 +85,8 @@ a:hover {
 .about-paragraphs p {
   margin: 10px;
   text-align: center;
+}
+
+.projects-grid {
+  margin-top: 10%;
 }
