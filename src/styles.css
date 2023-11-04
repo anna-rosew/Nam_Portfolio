@@ -134,3 +134,14 @@ footer {
 .cv-details {
   padding-left: 150px;
 }
+
+.container-article {
+  margin-top: 15%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.article-img {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
