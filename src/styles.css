@@ -49,8 +49,7 @@ body {
   max-width: 100%;
   height: auto;
   border-radius: 50%;
-  padding-top: 40px;
-  padding-bottom: 40px;
+  padding: 0.1%;
 }
 
 a {
@@ -110,4 +109,28 @@ footer {
 
 .brand-footer {
   color: #ecd8d5;
+}
+
+.cv-title {
+  text-align: left;
+  padding-left: 90px;
+}
+
+.cv-section {
+  margin-top: 20%;
+  margin-bottom: 20%;
+}
+
+.cv-heading {
+  text-align: left;
+  padding-left: 100px;
+}
+.cv-heading-right {
+  text-align: left;
+  padding-left: 100px;
+  padding-top: 50px;
+}
+
+.cv-details {
+  padding-left: 150px;
 }
