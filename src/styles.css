@@ -175,10 +175,19 @@ footer {
 }
 
 .project-text {
-  display: block;
-  margin: 0, auto;
+  text-align: left;
+  margin-left: 10%;
+  margin-top: 20%;
 }
 
 .project-section {
   padding-top: 100px;
+}
+
+.projects-pic {
+  margin: 5%;
+}
+
+.project-navigation-right {
+  text-align: right;
 }
