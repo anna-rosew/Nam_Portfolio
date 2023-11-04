@@ -36,6 +36,12 @@ h5 {
   padding-bottom: 20px;
 }
 
+h6 {
+  opacity: 60%;
+  margin: 0.5em;
+  text-align: center;
+}
+
 body {
   background-color: #ecd8d5;
 }
@@ -140,8 +146,20 @@ footer {
   margin-left: 20%;
   margin-right: 20%;
 }
+.article {
+  text-align: justify;
+}
 
 .article-img {
+  min-width: 100%;
+}
+
+.article-image-section {
+  min-width: 100%;
   margin-top: 1%;
   margin-bottom: 1%;
+}
+
+.article-details {
+  opacity: 60%;
 }
