@@ -145,7 +145,11 @@ footer {
   margin-top: 15%;
   margin-left: 20%;
   margin-right: 20%;
+  margin-bottom: 15%;
 }
+
+/*Integrate with Bootstrap*/
+
 .article {
   text-align: justify;
 }
@@ -162,4 +166,19 @@ footer {
 
 .article-details {
   opacity: 60%;
+}
+
+.article-link {
+  text-align: right;
+  opacity: 60%;
+  text-decoration: underline;
+}
+
+.project-text {
+  display: block;
+  margin: 0, auto;
+}
+
+.project-section {
+  padding-top: 100px;
 }
